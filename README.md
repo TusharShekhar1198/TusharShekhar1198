@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Tushar Shekhar<br>A passionate full-stack developer from India with a strong foundation in both frontend and backend technologies. I have hands-on experience building and designing applications from scratch, managing databases with MongoDB, and implementing backend functionality. I'm currently exploring GraphQL to enhance API interactions and frequently utilize Figma for crafting user-centric website designs. Constantly driven by curiosity and innovation, I'm always eager to learn new tools and refine my skills to create seamless digital experiences.
+# 💫 Hi 👋, I'm Tushar Shekhar
+<br>A passionate full-stack developer from India with a strong foundation in both frontend and backend technologies. I have hands-on experience building and designing applications from scratch, managing databases with MongoDB, and implementing backend functionality. I'm currently exploring GraphQL to enhance API interactions and frequently utilize Figma for crafting user-centric website designs. Constantly driven by curiosity and innovation, I'm always eager to learn new tools and refine my skills to create seamless digital experiences.
 
 
 ## 🌐 Socials:
