@@ -16,4 +16,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TusharShekhar1198&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-align everything in centre and also make font little bit bigger
+
